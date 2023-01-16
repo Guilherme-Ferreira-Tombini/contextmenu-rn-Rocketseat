@@ -1,7 +1,5 @@
 import { View } from 'react-native';
-
 import { Tag } from '../Tag';
-
 import { styles } from './styles';
 
 type Props = {
