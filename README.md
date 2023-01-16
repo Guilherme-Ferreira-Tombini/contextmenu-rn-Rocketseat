@@ -5,7 +5,7 @@ Esse projeto veio de um vídeo da Rocketseat de recriação de animações `http
 Nele adicionei animações para apagar e de animação das Tags, conforme o vídeo mostrou.
 
 ## Tecnologias
-Expo, TypeScript, CSS, React Native.
+Expo, TypeScript, CSS, React Native, JavasScript.
 
 ## Como baixar e rodar
 ### Baixar
